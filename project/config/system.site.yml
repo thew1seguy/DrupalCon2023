@@ -1,9 +1,9 @@
 _core:
   default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
 langcode: en
-uuid: e9d69d5a-8b53-4fd8-b9b1-881615127e84
-name: 'EW Training Playground'
-mail: admin@example.com
+uuid: 8f6e03cd-f613-4c48-97a1-b060780f57ea
+name: 'DrupalCon Pittsburgh 2023'
+mail: dharizza.espinach@evolvingweb.com
 slogan: ''
 page:
   403: ''

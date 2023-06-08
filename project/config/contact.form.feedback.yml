@@ -1,4 +1,4 @@
-uuid: c468d56e-7388-4924-a639-601df905981a
+uuid: 92b93d45-0062-40aa-aa1a-344209382592
 langcode: en
 status: true
 dependencies: {  }
@@ -7,7 +7,7 @@ _core:
 id: feedback
 label: 'Website feedback'
 recipients:
-  - admin@example.com
+  - dharizza.espinach@evolvingweb.com
 reply: ''
 weight: 0
 message: 'Your message has been sent.'
